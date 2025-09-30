@@ -1,4 +1,3 @@
-```javascript
 import { generateWAMessageFromContent } from "baileys";
 import { smsg } from './src/libraries/simple.js';
 import { format } from 'util';
